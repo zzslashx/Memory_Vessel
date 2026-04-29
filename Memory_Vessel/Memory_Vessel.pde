@@ -1,8 +1,9 @@
-//cheng cheng
+//Cheng Cheng
 //programming 11
 // memory vessel
 //This represents a rainy day and being loney. The snail in the photo is alone so 
 // I think that the memory they were trying to draw was loneliness!
+
 color ground = #B09070;
 color shell = #C85419;
 color sky = #BEA479;
