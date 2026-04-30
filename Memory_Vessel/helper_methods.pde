@@ -36,3 +36,11 @@ void drawPuddles2() {
   ellipse(450, 540, 140, 18);
   ellipse(680, 510, 80, 15);
 }
+void drawPuddles3() {
+  if (opacity3 <= 80) opacity3 += 1;
+  noStroke();
+  fill(200, 220, 240, opacity3);
+  ellipse(99, 550, 100, 20);
+  ellipse(499, 510, 140, 18);
+  ellipse(750, 410, 80, 15);
+}
